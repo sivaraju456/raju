@@ -1,0 +1,215 @@
+ul{
+  float:right ;
+
+  list-style-type:none;
+}
+ul li{
+  display: inline-block;
+  font-size: 25;
+}
+
+
+
+
+.t{
+  text-align: center;
+  font-size: 45;
+  font-weight: bold;
+}
+
+
+
+
+
+.yy{
+	 text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 25;
+
+}
+
+.yy a:hover{
+	 background-color:limegreen;
+ color: black;
+ font-size: 25;
+} 
+
+.pre {
+  background-color: ff8b3d ;
+  color: black ;
+}
+
+
+
+
+
+.a{
+  margin-right: 40px; margin-left: 30px; font-weight: bold; font-size: 20px; color: orangered; text-decoration: underline;
+
+}
+.aa{
+  margin-right: 40px; margin-left: 30px;
+  font-weight: bold;
+  font-size: 25;
+  color: purple;
+}
+.aaa{
+  margin-right: 60px; margin-left: 60px; font-size: 20px;
+}
+.v{
+  margin-right: 40px; margin-left: 30px; font-weight: bold; font-size: 20px; color: orangered;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img.z {
+  vertical-align:  ; margin-left: 50px;
+}
+
+img.b {
+  vertical-align: ; margin-left: 50px
+}
+
+img.c {
+  vertical-align: ; margin-left: 50px
+}
+
+img.d {
+  vertical-align:; margin-left: 50px
+}
+
+img.e {
+  vertical-align: ; margin-left: 50px
+}
+img.f {
+  vertical-align: ; margin-left: 50px
+}
+
+img.g {
+  vertical-align: ; margin-left: 50px
+}
+img.h {
+  vertical-align: ; margin-left: 50px
+}
+
+img.i {
+  vertical-align: ; margin-left: 50px
+}
+img.j {
+  vertical-align: ; margin-left: 50px
+}
+
+img.k{
+  vertical-align: ; margin-left: 50px
+}
+
+
+
+
+
+
+.top {
+  text-align: center;
+  font-size: 25;
+  font-weight: bold;
+}
+
+img.a:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}
+
+img.b:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.c:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.d:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.e:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.f:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.g:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.h:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.i:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.j:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+
+}img.k:hover{
+  
+
+  transform: scale(1.1);
+  transition: 0.3s;
+
+

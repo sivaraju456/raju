@@ -1,0 +1,481 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family:;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../farmcss.jpg);
+	height:15vh;
+	background-size:cover ;
+	background-position: center;
+	}
+
+
+ul{
+	float:right ;
+
+	list-style-type:none;
+}
+ul li{
+	display: inline-block;
+	font-size: 25;
+}
+ul li a {
+	text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+
+}
+ul li a:hover{
+	background-color:whitesmoke ;
+	color:black;
+}
+
+
+
+.previous{
+	background-color: black;
+  text-decoration: blink;
+  color: black;
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid transparent;
+  transition: 0.4s ease;
+  
+}
+
+.previous:hover {
+  background-color:darkorange ;
+  color: black;
+}
+
+
+
+.vv
+{
+	float:left ;
+
+	list-style-type:none;
+	display: inline-block;
+	font-size: 25;
+	text-decoration:blink ;
+	color:white;
+	padding: 10px 30px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+
+.vv:hover{
+	background-color:whitesmoke;
+
+  color: black;
+}
+ .vvv
+{
+	float:left ;
+
+	list-style-type:none;
+	display: inline-block;
+	font-size: 25;
+	text-decoration:blink ;
+	color:white;
+	padding: 10px 30px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+
+.vvv:hover{
+	background-color:whitesmoke;
+
+  color: black;
+}
+
+.vvvv
+{
+	float:left ;
+
+	list-style-type:none;
+	display: inline-block;
+	font-size: 25;
+	text-decoration:blink ;
+	color:white;
+	padding: 10px 30px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+
+.vvvv:hover{
+	background-color:whitesmoke;
+
+  color: black;
+}.vvvvv
+{
+	float:left ;
+
+	list-style-type:none;
+	display: inline-block;
+	font-size: 25;
+	text-decoration:blink ;
+	color:white;
+	padding: 10px 30px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+
+.vvvvv:hover{
+	background-color:whitesmoke;
+
+  color: black;
+}                                                                                                                                                                                         
+
+
+
+
+.vari {
+  border: 2px outset darkgreen;
+  background-color: limegreen;    
+  text-align: center;
+}
+.image {
+  border: 1px solid darkgreen;
+  border-radius: 40px
+  
+}
+
+.image:hover {
+  box-shadow: 0 0 8px 8px rgba(0, 140, 186, 0.5);
+}
+.jonna {
+  border: 1px solid darkgreen;
+  border-radius: 40px
+  
+}
+
+.jonna:hover {
+  box-shadow: 0 0 8px 8px rgba(0, 140, 186, 0.5);
+}
+.ragi {
+  border: 1px solid darkgreen;
+  border-radius: 40px
+  
+}
+
+.ragi:hover {
+  box-shadow: 0 0 8px 8px rgba(0, 140, 186, 0.5);
+}
+
+
+
+
+
+.ceral{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../cera.img);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+
+}
+.ceral{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../cera.img);
+	padding: 80;
+}
+.ceral h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.ceral h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.ceral h1:hover{
+	background-color:orange ;
+	color:black;
+}
+.vaari {
+  border: 2px outset darkgreen;
+  background-color: #EFFD5F;    
+  text-align: center;
+}
+
+
+
+.oil{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../oil.img);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+
+}
+.oil{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../oil.img);
+	padding: 80;
+}
+.oil h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.oil h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.oil h1:hover{
+	background-color:orange ;
+	color:black;
+}
+.vaar {
+  border: 2px outset darkgreen;
+  background-color: #B48A74;    
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ric{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../ric.img);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+
+}
+.ric{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../ric.img);
+	padding: 80;
+}
+.ric h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.ric h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.ric h1:hover{
+	background-color:orange ;
+	color:black;
+}
+.var {
+  border: 2px outset darkgreen;
+  background-color: lightblue;    
+  text-align: center;
+}
+
+
+
+
+
+
+
+.com{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../commercial.img);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+
+}
+.com{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../commercial.img);
+	padding: 80;
+}
+.com h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.com h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.com h1:hover{
+	background-color:orange ;
+	color:black;
+}
+.va {
+  border: 2px outset darkgreen;
+  background-color: lightcyan;    
+  text-align: center;
+  text-color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  font-family: Verdana, sans-serif;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row > .column {
+  padding: 0 8px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+
+
+img {
+  margin-bottom: -4px;
+  aspect-ratio: 5/5;
+  object-fit: cover;
+
+}
+.column img:hover{
+	transform: scale(1.1);
+}
+
+.caption-container {
+  text-align: center;
+  background-color: black;
+  padding: 2px 16px;
+  color: white;
+}
+
+.demo {
+  opacity: 0.9;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+  border-radius: 25px;
+}
+img.hover-shadow:hover {
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 1.5), 0 6px 20px 0 rgba(0, 0, 0, 1.5);
+}
+
+
+
+.row a {
+  text-decoration: none;
+}
+
+.yy{
+	 text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 20;
+
+}
+
+.yy a:hover{
+	 background-color:limegreen;
+ color: black;
+ font-size: 20;
+} 
+
+.pre {
+  background-color: ff8b3d ;
+  color: black ;
+}
+
+  
+

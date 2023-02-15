@@ -1,0 +1,396 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family:;
+}
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../farmcss.jpg);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+	}
+
+ul{
+	float:right ;
+
+	list-style-type:none;
+}
+ul li{
+	display: inline-block;
+	font-size: 25;
+}
+ul li a {
+	text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+
+}
+ul li a:hover{
+	background-color:whitesmoke ;
+	color:black;
+}
+
+
+
+.previous{
+	background-color: black;
+  text-decoration: blink;
+  color: black;
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid transparent;
+  transition: 0.4s ease;
+  
+}
+
+.previous:hover {
+  background-color:darkorange ;
+  color: black;
+}
+
+.dropbtn  {
+	text-decoration: blink;
+  background-color: whitesmoke;
+  color:black;
+  padding: 10px 20px;
+  font-size: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: whitesmoke;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: blink;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color:darkorange;
+color:black;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:wheat;}
+
+
+
+.aharam h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.aharam h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 10px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.aharam h1:hover{
+	background-color:orange ;
+	color:black;
+}
+
+header{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../paddy.img);
+	padding: 80;
+}
+
+.vari {
+  border: 2px outset darkgreen;
+  background-color: limegreen;    
+  text-align: center;
+}
+.image {
+  border: 1px solid darkgreen;
+  border-radius: 40px
+  
+}
+
+.image:hover {
+  box-shadow: 0 0 8px 8px rgba(0, 140, 186, 0.5);
+}
+.jonna {
+  border: 1px solid darkgreen;
+  border-radius: 40px
+  
+}
+
+.jonna:hover {
+  box-shadow: 0 0 8px 8px rgba(0, 140, 186, 0.5);
+}
+.ragi {
+  border: 1px solid darkgreen;
+  border-radius: 40px
+  
+}
+
+.ragi:hover {
+  box-shadow: 0 0 8px 8px rgba(0, 140, 186, 0.5);
+}
+
+
+
+
+.ceral{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../cera.img);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+
+}
+.ceral{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../cera.img);
+	padding: 80;
+}
+.ceral h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.ceral h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.ceral h1:hover{
+	background-color:orange ;
+	color:black;
+}
+.vaari {
+  border: 2px outset darkgreen;
+  background-color: #EFFD5F;    
+  text-align: center;
+}
+
+
+
+
+.rice{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../rice.img);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+
+}
+.rice{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../rice.img);
+	padding: 80;
+}
+.rice h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.rice h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.rice h1:hover{
+	background-color:orange ;
+	color:black;
+}
+.vaar {
+  border: 2px outset darkgreen;
+  background-color: #B48A74;    
+  text-align: center;
+}
+
+
+
+
+
+
+.oil{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../oil.img);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+
+}
+.oil{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../oil.img);
+	padding: 80;
+}
+.oil h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.oil h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.oil h1:hover{
+	background-color:orange ;
+	color:black;
+}
+.vaar {
+  border: 2px outset darkgreen;
+  background-color: #B48A74;    
+  text-align: center;
+}
+
+
+
+
+.com{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../commercial.img);
+	height:5vh;
+	background-size:cover ;
+	background-position: center;
+
+}
+.com{
+	image-rendering: :linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../commercial.img);
+	padding: 80;
+}
+.com h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.com h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+.com h1:hover{
+	background-color:orange ;
+	color:black;
+}
+.va {
+  border: 2px outset darkgreen;
+  background-color: lightcyan;    
+  text-align: center;
+  text-color: whitesmoke;
+}
+
+
+.itar h1{
+	color:whitesmoke;
+	font-size: 36px;
+}
+.itar h1{
+text-decoration:blink ;
+	color:white;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+}
+
+.itar
+	h1:hover{
+	background-color:lightgoldenrodyellow ;
+	color:black;
+}
+
+ul li .tran {
+	text-decoration:blink ;
+	color:black;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.4s ease;
+
+}
+ul li .tran:hover{
+	background-color:whitesmoke ;
+	color:black;
+}
+
+
+
+
+
+.mmm {
+  border: 2px outset darkgreen;
+  background-color: limegreen;    
+  text-align: center;
+}
+
+.mm  {
+	text-decoration: blink;
+  background-color: whitesmoke;
+  color:black;
+  padding: 10px 600px;
+  font-size: 30px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  
+}
+
+.m {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  
+}
+
+.mmm {
+  display: none;
+  position: absolute;
+  background-color: whitesmoke;
+  min-width: 100px;
+  box-shadow: 0px 20px 16px 0px rgba(0,0,0,0.9);
+  z-index: 1;
+  text-align: center;
+  
+  
+}
+
+.mmm a {
+  color: black;
+  padding: 5px 600px;
+  text-decoration: blink;
+  display: block;
+  text-align: center;
+  
+}
+
+.mmm a:hover {background-color:FFAE42;
+color:black;
+	padding: 10px 30px;
+	border: 1px solid transparent;
+	transition: 0.1s ease;
+  text-align: center;
+}
+
+.m:hover .mmm {display: block;}
+
+.m:hover .mm {background-color:wheat;
+
+  box-shadow: 0 0 13px 13px rgba(0, 140, 100, 1);
+}
+
+.cc {
+	text-align: center;
+}
+.ccc {
+	text-align: center;
+}
+

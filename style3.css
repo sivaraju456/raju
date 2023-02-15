@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+ul{
+  float:right ;
+
+  list-style-type:none;
+}
+ul li{
+  display: inline-block;
+  font-size: 25;
+}
+
+
+
+
+
+.yy{
+	 text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 25;
+
+}
+
+.yy a:hover{
+	 background-color:limegreen;
+ color: black;
+ font-size: 25;
+} 
+
+.pre {
+  background-color: ff8b3d ;
+  color: black ;
+}
+
+
+
+.a{
+  margin-right: 40px; margin-left: 30px; font-weight: bold; font-size: 25px; color: purple;
+
+}
+.aa{
+  margin-right: 40px; margin-left: 30px;
+  font-weight: bold;
+  font-size: 20;
+}
+.aaa{
+  margin-right: 60px; margin-left: 60px; font-size: 20px;
+}
+.v{
+  margin-right: 40px; margin-left: 30px; font-weight: bold; font-size: 20px; color: orangered;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img.z {
+  vertical-align:  ; 
+}
+
+img.b {
+  vertical-align: ;
+}
+
+img.c {
+  vertical-align: ;
+}
+
+img.d {
+  vertical-align:;
+}
+
+img.e {
+  vertical-align: ;
+}
+img.f {
+  vertical-align: ;
+}
+
+img.g {
+  vertical-align: ;
+}
+img.h {
+  vertical-align: ;
+}
+
+img.i {
+  vertical-align: ;
+}
+img.j {
+  vertical-align: ;
+}
+img.k {
+  vertical-align: ;
+}
+img.l {
+  vertical-align: ;
+}
+
+
+
